@@ -2,6 +2,8 @@
 
 > Custom report behaved different in one test / multiple tests
 
+https://github.com/facebook/jest/issues/12168
+
 Run `npm test`, the result would be:
 
 ```
